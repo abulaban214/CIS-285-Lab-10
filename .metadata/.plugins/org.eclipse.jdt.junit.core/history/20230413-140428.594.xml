@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testSelectionSort (1)" project="UnitTestingandGit" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="UnitTestingandGit.testSelectionSort" time="0.0" displayname="testSelectionSort" uniqueid="[engine:junit-vintage]/[runner:UnitTestingandGit.testSelectionSort]">
+    <testcase name="test" classname="UnitTestingandGit.testSelectionSort" time="0.0" displayname="test" uniqueid="[engine:junit-vintage]/[runner:UnitTestingandGit.testSelectionSort]/[test:test(UnitTestingandGit.testSelectionSort)]"/>
+  </testsuite>
+</testrun>
